@@ -1,5 +1,6 @@
-##### Inspired by Medium post => Post: Build a Searchable Course Catalog => https://stories.mlh.io/build-a-searchable-course-catalog-8a0553824af5
-#####                  Author => Irfaan Khalid(https://stories.mlh.io/@Irfdawg).
+##### Inspired by Medium post 
+##### => Post  : Build a Searchable Course Catalog => https://stories.mlh.io/build-a-searchable-course-catalog-8a0553824af5
+##### => Author: Irfaan Khalid(https://stories.mlh.io/@Irfdawg).
 
 ###### The original post shows the implementation using Node.js and some additional libraries. Here I am use Python; request and BeautifulSoup modules :-)
 
